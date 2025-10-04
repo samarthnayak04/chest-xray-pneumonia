@@ -11,6 +11,7 @@ This project detects **Pneumonia** from **chest X-ray images** using deep learni
 
 ## 📂 Dataset
 The dataset should have the following structure in Google Drive:
+```
 chest_xray/
 │── train/
 │ ├── NORMAL/
@@ -21,6 +22,7 @@ chest_xray/
 │── test/
 │ ├── NORMAL/
 │ ├── PNEUMONIA/
+```
 
 markdown
 Copy code
@@ -67,3 +69,4 @@ Add Grad-CAM visualizations for explainability
 
 📜 License
 This project is for educational purposes only and should not be used as a substitute for professional medical advice.
+
